@@ -1,2 +1,3 @@
 # hello-world-on-my-way
-my first repository on GitHub
+My first repository on GitHub
+I love play game :basketball:, and swimming
